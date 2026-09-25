@@ -21,7 +21,6 @@ body {
     padding: 20px;
     border: 2px solid white;
     width: 210mm;
-
 }
 
 #Main {
@@ -31,7 +30,6 @@ body {
     align-items: start;
     text-align: start;
     height: max-content;
-
 }
 
 input {
